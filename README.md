@@ -9,7 +9,7 @@
 
 A machine learning project to predict 30-day hospital readmission risk for diabetic patients, using the UCI Diabetes 130-US Hospitals dataset. The goal is to rank patients by their predicted readmission risk at the point of discharge, enabling clinical teams to prioritise follow-up interventions for the highest-risk patients.
 
-📋 Full project report — methodology, analysis, results, and commentary are documented in [My Notebook Title](./notebooks/03_final_report.ipynb). This is the recommended starting point for reviewing the project end-to-end
+📋 Full project report — methodology, analysis, results, and commentary are documented in [Final Report](./notebooks/03_final_report.ipynb). This is the recommended starting point for reviewing the project end-to-end
 
 ---
 
