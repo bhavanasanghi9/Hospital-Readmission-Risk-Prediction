@@ -18,6 +18,5 @@ env/
 # Data / model artifacts
 models/*.pkl
 models/*.joblib
-outputs/figures/*.png
 outputs/tables/*.csv
 outputs/metrics/*.json
