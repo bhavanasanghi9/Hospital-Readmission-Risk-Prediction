@@ -1,0 +1,20 @@
+{
+    "lasso_reduced_train_shape": [
+        79538,
+        62
+    ],
+    "lasso_reduced_test_shape": [
+        19802,
+        62
+    ],
+    "lasso_active_feature_count": 62,
+    "xgb_reduced_train_shape": [
+        79538,
+        69
+    ],
+    "xgb_reduced_test_shape": [
+        19802,
+        69
+    ],
+    "xgb_reduced_feature_count": 69
+}

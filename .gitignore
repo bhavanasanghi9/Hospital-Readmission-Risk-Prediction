@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+
+# Data / model artifacts
+models/*.pkl
+models/*.joblib
+outputs/figures/*.png
+outputs/tables/*.csv
+outputs/metrics/*.json
