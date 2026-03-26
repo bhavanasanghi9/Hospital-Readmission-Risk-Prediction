@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+*.pynb_checkpoints
+.git
+.gitignore
+data/raw
+data/processed
+notebooks
+outputs
+*.joblib
+*.pkl
